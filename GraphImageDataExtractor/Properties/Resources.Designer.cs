@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Graph_Image_Data_Extractor.Properties {
+namespace GraphImageDataExtractor.Properties {
     using System;
     
     

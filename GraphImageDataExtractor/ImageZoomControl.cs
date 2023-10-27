@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Graph_Image_Data_Extractor
+namespace GraphImageDataExtractor
 {
     public partial class ImageZoomControl : UserControl
     {

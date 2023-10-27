@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph Image Data Extractor", "Graph Image Data Extractor\Graph Image Data Extractor.csproj", "{9BB191A9-E57F-44FD-88B1-4148C5EA4479}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphImageDataExtractor", "GraphImageDataExtractor\GraphImageDataExtractor.csproj", "{9BB191A9-E57F-44FD-88B1-4148C5EA4479}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

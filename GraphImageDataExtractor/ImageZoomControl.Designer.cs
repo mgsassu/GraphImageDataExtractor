@@ -1,4 +1,4 @@
-﻿namespace Graph_Image_Data_Extractor
+﻿namespace GraphImageDataExtractor
 {
     partial class ImageZoomControl
     {
