@@ -42,7 +42,7 @@ namespace GraphImageDataExtractor
          }
          else
          {
-            MessageBox.Show("Cannot convert to Bitmap, or something.");
+            MessageBox.Show("Unable to open file, please select a valid image.");
             return;
          }
 
